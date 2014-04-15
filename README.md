@@ -1,6 +1,6 @@
 ##GRIFFIN Template Page
 
-This repo contains the minimum assets needed to template a page for the GRIFFIN Toolkit and other GRIFFIN-related pages.
+This repo contains the minimum assets needed to template a page for the GRIFFIN Toolkit and other GRIFFIN-related pages.  GRIFFIN supports the latest version of Firefox and Chrome.
 
 ###Usage
 
